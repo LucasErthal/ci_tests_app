@@ -1,4 +1,4 @@
-import 'package:ci_tests_app/components/custom_button.dart';
+import 'package:ci_tests_app/components/square_button.dart';
 import 'package:flutter/material.dart';
 
 void main() {
