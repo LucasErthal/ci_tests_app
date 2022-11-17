@@ -1,3 +1,5 @@
+<a href="https://github.com/LucasErthal/ci_tests_app/actions"><img src="https://github.com/LucasErthal/ci_tests_app/workflows/tests/badge.svg" alt="Build Status"></a>
+
 # ci_tests_app
 
 A new Flutter project.
