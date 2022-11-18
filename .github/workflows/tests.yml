@@ -1,9 +1,18 @@
-name: test-my-app
-on: [push, workflow_dispatch]
+name: CI
+on:
+push:
+  branches:
+    - develop
+    - master
+pull_request:
+  branches:
+    - develop
+    - master
+
 jobs:
   drive:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: subosito/flutter-action@v1
-    - run: flutter test
+      - uses: actions/checkout@v1
+      - uses: subosito/flutter-action@v1
+      - run: flutter analyze and test
