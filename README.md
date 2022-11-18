@@ -1,4 +1,4 @@
-<a href="https://github.com/LucasErthal/ci_tests_app/actions"><img src="https://github.com/LucasErthal/ci_tests_app/workflows/CI/badge.svg" alt="Build Status"></a>
+<a href="https://github.com/LucasErthal/CI/actions"><img src="https://github.com/LucasErthal/ci_tests_app/workflows/CI/badge.svg" alt="Build Status"></a>
 
 # ci_tests_app
 
